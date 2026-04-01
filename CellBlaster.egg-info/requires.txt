@@ -1,0 +1,13 @@
+numpy
+os
+sys
+argparse
+requests
+pandas
+numpy
+seaborn
+matplotlib
+globtqdm
+subprocess
+scanpy
+sklearnwarnings

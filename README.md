@@ -1,10 +1,15 @@
-**CellBLASTer**: A universal plant scRNA-seq annotation tool inspired by cellular BLAST strategies
-
-
-
+# CellBLASTer
+A universal plant scRNA-seq annotation tool inspired by cellular BLAST strategies
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/ec9c9bef-6eb0-4938-9578-0d47d340f787" />
 
+## Installation
+We recommend using conda to manage the installation of all dependencies. To do this, simply run:
 
+
+
+
+
+## Other Information
 **Dicot Datasets Information**
 | Species | Abbreviation | Count | SRA | Cell number |
 | :--- | :--- | :---: | :--- | :---: |

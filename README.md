@@ -5,10 +5,30 @@
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/ec9c9bef-6eb0-4938-9578-0d47d340f787" />
 
 
-Dicot Datasets Information
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/3bfccb6c-480b-4828-ad33-0d241e82087b" />
+**Dicot Datasets Information**
+| Species | Abbreviation | Count | SRA | Cell number |
+| :--- | :--- | :---: | :--- | :---: |
+| *Arabidopsis thaliana* | *A. thaliana* | 14 | SRP267870 | 188776 |
+| | | | SRP235541 | 23519 |
+| | | | SRP171040 | 33386 |
+| | | | SRP182008 | 10353 |
+| | | | SRP166333 | 16055 |
+| | | | SRP285817 | 16572 |
+| | | | SRP273996 | 9072 |
+| | | | SRP330542 | 20193 |
+| | | | SRP173393 | 10201 |
+| | | | SRP169576 | 25338 |
+| | | | SRP148288 | 14141 |
+| | | | SRP332285 | 9837 |
+| | | | SRP285040 | 973 |
+| | | | SRP394711 | 310839 |
+| *Glycine max* | *G. max* | 2 | CRA007122 | 14808 |
+| | | | CRA008947 | 8021 |
+| *Manihot esculenta* | *M. esculenta* | 1 | SRP406470 | 23765 |
+| *Medicago truncatula* | *M. truncatula* | 1 | SRP390780 | 24978 |
+| *Lotus japonicus* | *L. japonicus* | 1 | SRP376527 | 19921 |
 
-Monocot Datasets Information
+**Monocot Datasets Information**
 | Species | Abbreviation | Count | SRA | Cell number |
 | :--- | :--- | :---: | :--- | :---: |
 | *Oryza sativa* | *O. sativa* | 2 | SRP309176 | 33720 |

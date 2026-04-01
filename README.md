@@ -1,10 +1,16 @@
 # CellBLASTer
-A universal plant scRNA-seq annotation tool inspired by cellular BLAST strategies
-<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/ec9c9bef-6eb0-4938-9578-0d47d340f787" />
+A universal plant scRNA-seq annotation tool inspired by cellular BLAST strategies.
+CellBlaster is a cross-species cell type identification and annotation tool designed specifically for plant single-cell transcriptome (scRNA-seq). Through cross-species orthogroup (OG) mapping, symbolic percentage encoding, and multi-round correction algorithms, it accurately maps the query dataset to the reference database, achieving high-confidence automatic cell type annotation.
 
 ## Installation
 We recommend using conda to manage the installation of all dependencies. To do this, simply run:
-
+Then, download this repo and install it.
+```
+git clone [repo_path]
+cd CellBlaster-main
+pip install .
+```
+The total installation time is around 1-2 mintunes. If error occuors, please upgrade pip and try again.
 
 
 

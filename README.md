@@ -42,3 +42,20 @@
 | *Sorghum bicolor* | *S. bicolor* | 1 | SRP422815_1 | 12839 |
 | *Setaria viridis* | *S. viridis* | 1 | SRP422815_2 | 25609 |
 | *Phyllostachys edulis* | *P. edulis* | 1 | GSE229126 | 3573 |
+
+**Isoform Datasets Information**
+| Type | Parameter name | File name |
+| :--- | :--- | :--- |
+| Dicot | *A. thaliana* | *A. thaliana_isoform.fa* |
+| Dicot | *G. max* | *G. max_isoform.fa* |
+| Dicot | *L. japonicus* | *L. japonicus_isoform.fa* |
+| Dicot | *M. esculenta* | *M. esculenta_isoform.fa* |
+| Dicot | *M. truncatula* | *M. truncatula_isoform.fa* |
+| Monocot | *O. sativa* | *O. sativa_isoform.fa* |
+| Monocot | *P. edulis* | *P. edulis_isoform.fa* |
+| Monocot | *S. bicolor* | *S. bicolor_isoform.fa* |
+| Monocot | *S. viridis* | *S. viridis_isoform.fa* |
+| Monocot | *T. aestivum* | *T. aestivum_isoform.A.fa* |
+| Monocot | | *T. aestivum_isoform.B.fa* |
+| Monocot | | *T. aestivum_isoform.D.fa* |
+| Monocot | *Z. mays* | *Z. mays_isoform.fa* |

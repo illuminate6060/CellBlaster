@@ -12,11 +12,11 @@ pip install .
 ```
 # Usage1: Annotation by embedded dataset
 ## Database
-### (1) CellBlaster features two built-in databases: Dicot and Monocot. 
+**(1) CellBlaster features two built-in databases: Dicot and Monocot.**
     Dicot Database: For broad-leaf plants.
     Monocot Database: For grasses/grains.
-### (2) Please select the one that matches your sc/snRNA-seq data. 
-### (3) Detailed dataset specifications are available in the Other Information section below.
+**(2) Please select the one that matches your sc/snRNA-seq data.**
+**(3) Detailed dataset specifications are available in the Other Information section below.**
 
 ## Python Example
 Comment out your **h5ad** file using the CellBlaster software in your  Python program, as shown below. 

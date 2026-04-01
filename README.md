@@ -118,9 +118,9 @@ nohup orthofinder -f ./**Download** -t 80 -og -n result &
 ```
 **-f:** The directory containing all prepared .fa files, including those downloaded in Step 1 and your own new species files.
 
-**-t: **Number of threads for OrthoFinder to use.
+**-t:** Number of threads for OrthoFinder to use.
 
-**-n: **The directory where results will be stored. The Orthogroups.txt file will be located at: ./Download/OrthoFinder/Results_result/Orthogroups/Orthogroups.txt.
+**-n:** The directory where results will be stored. The Orthogroups.txt file will be located at: ./Download/OrthoFinder/Results_result/Orthogroups/Orthogroups.txt.
 
 **(3) Perform annotation using the newly constructed dataset.**
 Run the CellBlaster annotation pipeline based on your customized Orthogroups and datasets.

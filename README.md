@@ -10,6 +10,10 @@ git clone https://github.com/illuminate6060/CellBlaster.git
 cd CellBlaster
 pip install .
 ```
+# 
+
+
+
 # Usage1: Annotation by embedded dataset
 ## Database
 **(1) CellBlaster features two built-in databases: Dicot and Monocot.**
@@ -136,3 +140,7 @@ result = cellblaster.Annotation(
 | Monocot | | *T. aestivum_isoform.B.fa* |
 | Monocot | | *T. aestivum_isoform.D.fa* |
 | Monocot | *Z. mays* | *Z. mays_isoform.fa* |
+
+### Contact Us
+If you have any suggestions/ideas for CellBlaster or are having issues trying to use it, please don't hesitate to reach out to us.
+Lin Du,  3051095449@qq.com

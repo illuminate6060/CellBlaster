@@ -104,7 +104,7 @@ Once the download is complete, add your specific isoform files to the download d
 ```
 #--Step1: Download .fa file for orthofinder.
 cd  path/CellBlaster/Use_OwnData
-nohup python 1.Download_isoform.py -s T.aestivum  G.max L.japonicus M.truncatula -o **./Download** &
+nohup python 1.Download_isoform.py -s T.aestivum  G.max L.japonicus M.truncatula -o ./Download &
 ```
 **-s:** The prefix of the .fa files to be downloaded from the database. Multiple values can be declared, separated by spaces (e.g., A.thaliana T.aestivum G.max).
 
@@ -114,7 +114,7 @@ nohup python 1.Download_isoform.py -s T.aestivum  G.max L.japonicus M.truncatula
 Ensure that the OrthoFinder path is correctly configured in your system.
 ```
 #Step2：Orthofinder to genarate "Orthogroups.txt", check your orthofinder path.
-nohup /path/you_software/orthofinder -f ./**Download** -t 80 -og -n result &
+nohup /path/you_software/orthofinder -f ./Download -t 80 -og -n result &
 ```
 **-f:** The directory containing all prepared .fa files, including those downloaded in Step 1 and your own new species files.
 

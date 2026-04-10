@@ -133,7 +133,7 @@ nohup python 2.New_CellBlaster.py  -O ./Download/OrthoFinder/Results_result/Orth
 ## **Dicot Datasets Information**
 | Species | Abbreviation | Count | SRA | Cell number |
 | :--- | :--- | :---: | :--- | :---: |
-| *Arabidopsis thaliana* | *A. thaliana* | 14 | SRP267870 | 188776 |
+| *Arabidopsis thaliana* | *A. thaliana* | 15 | SRP267870 | 188776 |
 | | | | SRP235541 | 23519 |
 | | | | SRP171040 | 33386 |
 | | | | SRP182008 | 10353 |

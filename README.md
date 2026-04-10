@@ -114,7 +114,7 @@ nohup python 1.Download_isoform.py -s T.aestivum  G.max L.japonicus M.truncatula
 Ensure that the OrthoFinder path is correctly configured in your system.
 ```
 #Step2：Orthofinder to genarate "Orthogroups.txt", check your orthofinder path.
-nohup orthofinder -f ./**Download** -t 80 -og -n result &
+nohup /path/you_software/orthofinder -f ./**Download** -t 80 -og -n result &
 ```
 **-f:** The directory containing all prepared .fa files, including those downloaded in Step 1 and your own new species files.
 

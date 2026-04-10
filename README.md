@@ -147,6 +147,7 @@ nohup python 2.New_CellBlaster.py  -O ./Download/OrthoFinder/Results_result/Orth
 | | | | SRP332285 | 9837 |
 | | | | SRP285040 | 973 |
 | | | | SRP394711 | 310839 |
+| | | | SRP422815 | 18509 |
 | *Glycine max* | *G. max* | 2 | CRA007122 | 14808 |
 | | | | CRA008947 | 8021 |
 | *Manihot esculenta* | *M. esculenta* | 1 | SRP406470 | 23765 |
